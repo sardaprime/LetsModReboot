@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LetsModReboot",
+  "name": "Let's Mod Reboot",
+  "description": "For Pahimar's Let's Mod Reboot series.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "sardaprime","pahimar"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
